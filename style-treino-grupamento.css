@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(to right, #87ceeb, #317692);
+  height: 100vh;
+  margin: 0 10px;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.container {
+  background-color: white;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 7px black;
+}
+
+p {
+  font-weight: 500;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: #333;
+  box-shadow: 2px 2px 4px black;
+}
+
+.peitoral {
+  margin-top: 15px;
+  background: linear-gradient(to right, #FF6F61, transparent);
+}
+.costas {
+  background: linear-gradient(to right, #6B5B95, transparent);
+}
+.ombro {
+  background: linear-gradient(to right, #88B04B, transparent);
+}
+.biceps {
+  background: linear-gradient(to right, #F7CAC9, transparent);
+}
+.triceps {
+  background: linear-gradient(to right, #92A8D1, transparent);
+}
+.quadriceps {
+  background: linear-gradient(to right, #FFBB58, transparent);
+}
+.posterior {
+  background: linear-gradient(to right, #009B77, transparent);
+}
+.panturrilha {
+  background: linear-gradient(to right, #FFD662, transparent);
+}
+.gluteos {
+  background: linear-gradient(to right, #B565A7, transparent);
+}
+.abdomem {
+  background: linear-gradient(to right, #009BDE, transparent);
+}

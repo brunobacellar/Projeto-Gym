@@ -1,0 +1,62 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to right, #87ceeb, #317692);
+  margin: 0 10px;
+}
+
+h1 {
+  margin: 120px 0 35px 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 7px black;
+}
+
+.select {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+p {
+  font-weight: 500;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: #333;
+  box-shadow: 2px 2px 4px black;
+}
+
+.dia:active {
+  box-shadow: 1px 1px 2px black;
+  transform: translateY(2px);
+}
+
+.seg {
+  background: linear-gradient(to right, #FF6F61, transparent);
+}
+.ter {
+  background: linear-gradient(to right, #6B5B95, transparent);
+}
+.qua {
+  background: linear-gradient(to right, #88B04B, transparent);
+}
+.qui {
+  background: linear-gradient(to right, #F7CAC9, transparent);
+}
+.sex {
+  background: linear-gradient(to right, #92A8D1, transparent);
+}
+.sab {
+  background: linear-gradient(to right, #FFBB58, transparent);
+}
+.dom {
+  background: linear-gradient(to right, #009B77, transparent);
+}
